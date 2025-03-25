@@ -1,0 +1,6 @@
+@SabcakeBackend_HostAddress = http://localhost:5215
+
+GET {{SabcakeBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

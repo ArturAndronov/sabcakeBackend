@@ -1,0 +1,6 @@
+wwwroot\images\cakeItem7.png
+wwwroot\images\cupcake.png
+wwwroot\images\medovik.png
+wwwroot\images\merengoviy.png
+wwwroot\images\napoleon.png
+wwwroot\images\snikers.png

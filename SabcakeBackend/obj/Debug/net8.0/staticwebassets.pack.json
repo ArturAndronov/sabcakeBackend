@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cakeItem7.png",
+      "PackagePath": "staticwebassets\\images\\cakeItem7.png"
+    },
+    {
+      "Id": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cupcake.png",
+      "PackagePath": "staticwebassets\\images\\cupcake.png"
+    },
+    {
+      "Id": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\medovik.png",
+      "PackagePath": "staticwebassets\\images\\medovik.png"
+    },
+    {
+      "Id": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\merengoviy.png",
+      "PackagePath": "staticwebassets\\images\\merengoviy.png"
+    },
+    {
+      "Id": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\napoleon.png",
+      "PackagePath": "staticwebassets\\images\\napoleon.png"
+    },
+    {
+      "Id": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\snikers.png",
+      "PackagePath": "staticwebassets\\images\\snikers.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SabcakeBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SabcakeBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SabcakeBackend.props",
+      "PackagePath": "build\\SabcakeBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SabcakeBackend.props",
+      "PackagePath": "buildMultiTargeting\\SabcakeBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SabcakeBackend.props",
+      "PackagePath": "buildTransitive\\SabcakeBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

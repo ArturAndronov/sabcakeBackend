@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "Cgaf2QC39TvuMiUzYRe0+kt/v7LJW1oz8deqdrzIf/Y=",
+  "Source": "SabcakeBackend",
+  "BasePath": "_content/SabcakeBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SabcakeBackend\\wwwroot",
+      "Source": "SabcakeBackend",
+      "ContentRoot": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\",
+      "BasePath": "_content/SabcakeBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cakeItem7.png",
+      "SourceId": "SabcakeBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\",
+      "BasePath": "_content/SabcakeBackend",
+      "RelativePath": "images/cakeItem7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z0e45pjmgd",
+      "Integrity": "A/kYs1w2SPoMeWNWlXdrV/f9T0UZfFKGQRmTkaf9ePE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cakeItem7.png"
+    },
+    {
+      "Identity": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cupcake.png",
+      "SourceId": "SabcakeBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\",
+      "BasePath": "_content/SabcakeBackend",
+      "RelativePath": "images/cupcake#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1m25us4cek",
+      "Integrity": "eapzKa5wQDZTUQZZzBe1oQsnfZefUUvv8BOCng3+O4o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cupcake.png"
+    },
+    {
+      "Identity": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\medovik.png",
+      "SourceId": "SabcakeBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\",
+      "BasePath": "_content/SabcakeBackend",
+      "RelativePath": "images/medovik#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vi1v7143us",
+      "Integrity": "idsmYGcuche7cwzQ5veI0EoI5h0PzSzTiZcs7HyGtDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\medovik.png"
+    },
+    {
+      "Identity": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\merengoviy.png",
+      "SourceId": "SabcakeBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\",
+      "BasePath": "_content/SabcakeBackend",
+      "RelativePath": "images/merengoviy#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tv06t1bg7f",
+      "Integrity": "ByW9o2V3vGzyaQdgCrAH2FqXIjtqVGRyKJ5WPkI0jis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\merengoviy.png"
+    },
+    {
+      "Identity": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\napoleon.png",
+      "SourceId": "SabcakeBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\",
+      "BasePath": "_content/SabcakeBackend",
+      "RelativePath": "images/napoleon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ke2wajfeiq",
+      "Integrity": "1EVLdXsWaQy/787rPlpp/j/AHq99sevxkIN16phvfDU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\napoleon.png"
+    },
+    {
+      "Identity": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\snikers.png",
+      "SourceId": "SabcakeBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\",
+      "BasePath": "_content/SabcakeBackend",
+      "RelativePath": "images/snikers#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "we4w4asjfg",
+      "Integrity": "qLUkk8OF3ufMIAC4tWbVfKFKrbYn92tuGOKCXYGG+8Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\snikers.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/cakeItem7.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cakeItem7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A/kYs1w2SPoMeWNWlXdrV/f9T0UZfFKGQRmTkaf9ePE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A/kYs1w2SPoMeWNWlXdrV/f9T0UZfFKGQRmTkaf9ePE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cakeItem7.z0e45pjmgd.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cakeItem7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A/kYs1w2SPoMeWNWlXdrV/f9T0UZfFKGQRmTkaf9ePE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z0e45pjmgd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cakeItem7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A/kYs1w2SPoMeWNWlXdrV/f9T0UZfFKGQRmTkaf9ePE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cupcake.1m25us4cek.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cupcake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eapzKa5wQDZTUQZZzBe1oQsnfZefUUvv8BOCng3+O4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1m25us4cek"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cupcake.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eapzKa5wQDZTUQZZzBe1oQsnfZefUUvv8BOCng3+O4o="
+        }
+      ]
+    },
+    {
+      "Route": "images/cupcake.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\cupcake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eapzKa5wQDZTUQZZzBe1oQsnfZefUUvv8BOCng3+O4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eapzKa5wQDZTUQZZzBe1oQsnfZefUUvv8BOCng3+O4o="
+        }
+      ]
+    },
+    {
+      "Route": "images/medovik.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\medovik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idsmYGcuche7cwzQ5veI0EoI5h0PzSzTiZcs7HyGtDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-idsmYGcuche7cwzQ5veI0EoI5h0PzSzTiZcs7HyGtDc="
+        }
+      ]
+    },
+    {
+      "Route": "images/medovik.vi1v7143us.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\medovik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idsmYGcuche7cwzQ5veI0EoI5h0PzSzTiZcs7HyGtDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi1v7143us"
+        },
+        {
+          "Name": "label",
+          "Value": "images/medovik.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-idsmYGcuche7cwzQ5veI0EoI5h0PzSzTiZcs7HyGtDc="
+        }
+      ]
+    },
+    {
+      "Route": "images/merengoviy.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\merengoviy.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByW9o2V3vGzyaQdgCrAH2FqXIjtqVGRyKJ5WPkI0jis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByW9o2V3vGzyaQdgCrAH2FqXIjtqVGRyKJ5WPkI0jis="
+        }
+      ]
+    },
+    {
+      "Route": "images/merengoviy.tv06t1bg7f.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\merengoviy.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByW9o2V3vGzyaQdgCrAH2FqXIjtqVGRyKJ5WPkI0jis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tv06t1bg7f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/merengoviy.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByW9o2V3vGzyaQdgCrAH2FqXIjtqVGRyKJ5WPkI0jis="
+        }
+      ]
+    },
+    {
+      "Route": "images/napoleon.ke2wajfeiq.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\napoleon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1EVLdXsWaQy/787rPlpp/j/AHq99sevxkIN16phvfDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ke2wajfeiq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/napoleon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1EVLdXsWaQy/787rPlpp/j/AHq99sevxkIN16phvfDU="
+        }
+      ]
+    },
+    {
+      "Route": "images/napoleon.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\napoleon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1EVLdXsWaQy/787rPlpp/j/AHq99sevxkIN16phvfDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1EVLdXsWaQy/787rPlpp/j/AHq99sevxkIN16phvfDU="
+        }
+      ]
+    },
+    {
+      "Route": "images/snikers.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\snikers.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLUkk8OF3ufMIAC4tWbVfKFKrbYn92tuGOKCXYGG+8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLUkk8OF3ufMIAC4tWbVfKFKrbYn92tuGOKCXYGG+8Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/snikers.we4w4asjfg.png",
+      "AssetFile": "E:\\programming\\product\\SabcakeShop\\SabcakeBackend\\SabcakeBackend\\wwwroot\\images\\snikers.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLUkk8OF3ufMIAC4tWbVfKFKrbYn92tuGOKCXYGG+8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2023 20:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "we4w4asjfg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/snikers.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLUkk8OF3ufMIAC4tWbVfKFKrbYn92tuGOKCXYGG+8Y="
+        }
+      ]
+    }
+  ]
+}
