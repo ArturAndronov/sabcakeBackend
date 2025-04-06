@@ -267,7 +267,6 @@ E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SabcakeBackend.props
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SabcakeBackend.props
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\staticwebassets.pack.json
-E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\SabcakeB.979A5D40.Up2Date
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\SabcakeBackend.dll
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\refint\SabcakeBackend.dll
@@ -276,3 +275,4 @@ E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\ref\SabcakeBackend.dll
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\bin\Debug\net8.0\SabcakeBackend.staticwebassets.runtime.json
 E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\SabcakeBackend.sourcelink.json
+E:\programming\product\SabcakeShop\SabcakeBackend\SabcakeBackend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

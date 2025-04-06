@@ -1,29 +1,55 @@
-﻿using SabcakeBackend.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using SabcakeBackend.Models;
 
 namespace SabcakeBackend.Data
 {
-    public class SabcakeDbContext: DbContext
+    public class SabcakeDbContext : DbContext
     {
         public SabcakeDbContext(DbContextOptions<SabcakeDbContext> options) : base(options)
         {
         }
 
-        public DbSet<Product> Products { get; set; }
-        public DbSet<Certificate> Certificates { get; set; }
-        public DbSet<GalleryItem> GalleryItems { get; set; }
+        public DbSet<Cakes> Cakes { get; set; }
+        public DbSet<Types> Types { get; set; }
+        public DbSet<Fillings> Fillings { get; set; }
+        public DbSet<CakeTypes> CakeTypes { get; set; }
+        public DbSet<CakeFillings> CakeFillings { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Product>()
-                .HasKey(p => p.Id); //id primary key
+        modelBuilder.Entity<CakeTypes>().HasKey(ct => new { ct.CakeId, ct.TypeId });
+        modelBuilder.Entity<CakeFillings>().HasKey(cf => new { cf.CakeId, cf.FillingId });
+        // Игнорируем системные типы
+        modelBuilder.Ignore<System.Reflection.CustomAttributeData>();
 
-            modelBuilder.Entity<Product>()
-                .Property(p => p.Name)
-                .IsRequired() //name necessary field
-                .HasMaxLength(100); //max length 100 symbols
+            // Настройка составных ключей для связей many-to-many
+            modelBuilder.Entity<CakeTypes>()
+                .HasKey(ct => new { ct.CakeId, ct.TypeId });
+
+            modelBuilder.Entity<CakeFillings>()
+                .HasKey(cf => new { cf.CakeId, cf.FillingId });
+
+            // Настройка связей
+            modelBuilder.Entity<CakeTypes>()
+                .HasOne(ct => ct.Cake)
+                .WithMany(c => c.CakeTypes)
+                .HasForeignKey(ct => ct.CakeId);
+
+            modelBuilder.Entity<CakeTypes>()
+                .HasOne(ct => ct.Type)
+                .WithMany(t => t.CakeTypes)
+                .HasForeignKey(ct => ct.TypeId);
+
+            modelBuilder.Entity<CakeFillings>()
+                .HasOne(cf => cf.Cake)
+                .WithMany(c => c.CakeFillings)
+                .HasForeignKey(cf => cf.CakeId);
+
+            modelBuilder.Entity<CakeFillings>()
+                .HasOne(cf => cf.Filling)
+                .WithMany(f => f.CakeFillings)
+                .HasForeignKey(cf => cf.FillingId);
         }
     }
 }
